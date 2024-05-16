@@ -149,7 +149,7 @@ const Home = () => {
                 </h5>
               </div>
               <div className="w-1/2 flex items-end justify-end gap-4">
-                <div className="bg-[#2C3034] flex items-center justify-center w-24 rounded-[13px] p-2 shadow-md">
+                <div className="bg-[#2C3034] flex items-center justify-center w-24 rounded-[13px] p-2 shadow-md mobile-hide">
                   <img className="text-white px-1" src={EyeSvg} alt="" />
                   <p className="text-[13px] text-[#555C63] mobile-hide">see All</p>
                 </div>
