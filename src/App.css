@@ -143,7 +143,9 @@ height: calc(100vh - 105px);
 }
 .react-multi-carousel-item .flex {
     width: 100%;
-    height: auto;
+}
+.react-multi-carousel-list li img {
+  object-fit: contain;
 }
 .drawer-heading h2 {
   font-size: 12px;
